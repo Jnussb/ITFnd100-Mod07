@@ -92,11 +92,29 @@ else:
     print(x, "is within the allowed range")
 ```
 
-###### Summary
+###### **Summary**
 Throughout this assignment, I’ve learned to implement concepts of error handling and pickling. I was able to utilize them into a raised 
 exception error handling code. I’ve learned a lot over built-in error handling exceptions. Now, I’m looking forward to using more of these 
 built-in user-friendly error handling exceptions. 
 
-Figure 2 & 3: Command Shell
-(no error)
+**Figure 2 & 3: Command Shell**
+**(no error)**
 
+![](2.jpg " ")
+
+**(error)**
+
+![](3.PNG " ")
+
+**Figure 4 & 5: Pycharm**
+**(no error)**
+
+![](5.jpg " ")
+
+**(error)**
+
+![](6.jpg " ")
+
+**(Figure 6: Pickled File)**
+
+![](4.jpg " ")
