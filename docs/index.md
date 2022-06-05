@@ -6,7 +6,7 @@ Foundations of Programming: Python
 
 Assignment 07
 
-Github Link -  https://github.com/Jnussb/IntroToProg-Python-Mod07-
+Github Link -  [https://github.com/Jnussb/IntroToProg-Python-Mod07-](https://github.com/Jnussb/IntroToProg-Python-Mod07-)
 
 # Error Handling and Pickling
 
@@ -22,7 +22,7 @@ interpreter stops the current process and passes it to the calling process until
 There are two types of error that occur in Python. One being syntax errors and the other is logical errors also known as exception errors 
 which occur after passing the syntax test. We can handle errors with many different handling exceptions. I used raised exceptions for a 
 predefined condition. In other words, when I want to code for the limitation of certain conditions then we can raise an exception.
-https://www.geeksforgeeks.org/errors-and-exceptions-in-python/
+[https://www.geeksforgeeks.org/errors-and-exceptions-in-python/](https://www.geeksforgeeks.org/errors-and-exceptions-in-python/)
 
 ### Pickling
 Python pickle module is used for serializing and de-serializing python object structures. This type of process used to convert any kind of 
@@ -31,7 +31,7 @@ serialization or flattening or marshalling. Whereas unpickling is the inverse op
 is converted back into an object hierarchy. How common is the use of pickling and unpickling? It’s very common to use them since there are many 
 advantages. One being that objects that are serialized have certain references to themselves. Another is object sharing which ensures all references 
 point back to the master copy. That is pertinent for mutable objects to be shared. 
-https://www.datacamp.com/tutorial/pickle-python-tutorial
+[https://www.datacamp.com/tutorial/pickle-python-tutorial](https://www.datacamp.com/tutorial/pickle-python-tutorial)
 
 #### Script
 This script has both error handling and pickling. I start off the script by using the import pickle module. If you notice the ‘dat’ is there instead of 
