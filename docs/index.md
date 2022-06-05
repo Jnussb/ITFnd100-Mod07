@@ -6,7 +6,7 @@ Foundations of Programming: Python
 
 Assignment 07
 
-Github Link -  [https://github.com/Jnussb/IntroToProg-Python-Mod07-](https://github.com/Jnussb/IntroToProg-Python-Mod07-)
+Github Link -  [https://github.com/Jnussb/ITFnd100-Mod07.git](https://github.com/Jnussb/ITFnd100-Mod07.git)
 
 # Error Handling and Pickling
 
